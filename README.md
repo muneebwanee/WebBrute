@@ -1,5 +1,4 @@
-# WebBrute
-## Simple python script to bruteforce any website
+## WebBrute
 
 ### Description
 Bruteforce simple logins with this tool. The URL must contain http(s). 
